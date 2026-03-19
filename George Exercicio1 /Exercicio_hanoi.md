@@ -56,8 +56,8 @@ Resposta
 
 8.  R= Porque o problema é resolvido quebrando-o e subproblemas menores  iguais ao original.
    
-9.  R= Caso base é quando não há mais divisão possivel
-    
+9. R= Caso base é quando não há mais divisão possivel
+   
 10. R= O número de movimentos praticamente dobra +1 . 
 
 
