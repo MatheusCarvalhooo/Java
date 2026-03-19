@@ -4,7 +4,7 @@
 
 ## 🧠 Parte 1 – Conceitos Gerais
 
-1. O que representa o problema da Torre de Hanói?  
+1. O que representa o problema da Torre de Hanói?   
 2. Quem foi o criador da Torre de Hanói e em que ano ela foi proposta?  
 3. Quais são as três regras fundamentais do jogo da Torre de Hanói?  
 4. Qual é o objetivo principal do algoritmo da Torre de Hanói?  
@@ -38,3 +38,27 @@
 20. Se `n = 4`, quantos movimentos o programa imprimirá no total?
 
 ---
+Resposta
+
+1 R= E um quebra cabeça matematico e logico utilizado para representar e estudar recursividade, planejamento estrategico e resolução de problemas e algoritmos
+
+2 R= Foi criado pelo matemático francês Édoard Lucas em 1883
+
+3 R= So pode mover um disco por vez, nunca colocar um disco maior sobre um menor, a quantidade minima de movimentos e calculada por 2 elevado a N -1
+
+4 R= Mover uma pilha inteira de discos de um pino de origem para um pino de destino, utilizando um pino auxiliar, no numero minimo de movimentos
+
+5 R= 2n -1 onde N e o numero de discos
+
+6 R= 7
+
+7 R= É o exponecial definido como O(2 elevado a n), onde N e o numero de discos
+
+8.  R= Porque o problema é resolvido quebrando-o e subproblemas menores  iguais ao original.
+   
+9.  R= Caso base é quando não há mais divisão possivel
+    
+10. R= O número de movimentos praticamente dobra +1 . 
+
+
+
